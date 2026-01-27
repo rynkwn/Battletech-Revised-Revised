@@ -2,7 +2,7 @@
 Taken from here: https://www.youtube.com/watch?v=5yDti8Pkevk
 
 But in a nutshell:
-1) Manual download of https://www.nexusmods.com/battletech/mods/567 (though you should be able to download the files in this repo, though I haven't tested that, and I'm not yet sure they're equivalent.)
+1) Manual download of https://www.nexusmods.com/battletech/mods/567 (though you should be able to download the files in this repo, though I haven't tested that, and I'm not yet sure they're equivalent. But the last update to the original repo was ~6 months before the mod was updated on Nexus, so maybe the Nexus mod is more updated.)
 2) Download Community Asset Bundle here: https://discourse.modsinexile.com/t/community-assets-bundle-cab/115
 3) Run CAB, and then set the install target to be `WHATEVERDRIVE:SteamLibrary\steamapps\common\BATTLETECH\mods` (On Windows. Not sure if this game runs on other OSes, but it'd be the equivalent). This may require you to press "Advanced Mode"
 Just make sure it goes to your battletech installation + `\mods`.
