@@ -8,7 +8,7 @@ But in a nutshell:
 Just make sure it goes to your battletech installation + `\mods`.
 4) Let that run and finish. Ignore the video, the CAB should not be nested in its own folder. The folders/files should be directly beneath `\mods`.
 5) Then extract/move the BTR files into \mods.
-6) Then go into `\mods`, find the `ModTek` folder. Run `ModTekInjector`.
+6) Then go into `\mods`, find the `ModTek` folder. Run `ModTekInjector` as Admin
 7) Once that finishes, open up Battletech. It should say BTR on the main menu screen. This may take a while, as it'll cache.
 8) Then close. (This is mostly mysticism.)
 9) Then re-open.
