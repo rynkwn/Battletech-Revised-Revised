@@ -1,0 +1,19 @@
+{
+    "Name": "CustomPlayerEmblems",
+    "Enabled": true,
+    "Version": "1.0",
+    "Description": "Structured similarly to 'All 3025 Mercs' by Cyttorak001",
+    "Author": "rynkwn",
+    "Manifest": [
+        {
+            "Type": "Texture2D",
+            "Path": "emblems",
+            "AddToAddendum": "PlayerEmblems"
+        },
+        {
+            "Type": "Sprite",
+            "Path": "emblems",
+            "AddToAddendum": "PlayerEmblems"
+        }
+    ]
+}
