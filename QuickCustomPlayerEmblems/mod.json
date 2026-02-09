@@ -1,5 +1,5 @@
 {
-    "Name": "QuickCustomPlayerEmblems",
+    "Name": "CustomPlayerEmblems",
     "Enabled": true,
     "Version": "1.0",
     "Description": "Structured similarly to 'All 3025 Mercs' by Cyttorak001",
@@ -16,4 +16,5 @@
             "AddToAddendum": "PlayerEmblems"
         }
     ]
+
 }
